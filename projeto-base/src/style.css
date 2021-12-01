@@ -27,3 +27,6 @@
     border-color: rgb(139, 0, 132);
   
 }
+option{
+    transform: rotate(2);
+}
